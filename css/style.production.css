@@ -37,10 +37,10 @@
   }
 
   body {
-    background-image: url(img/background_image.jpg);
+    background-image: url(file:///C:/Users/Tyler/Documents/Achievment%20One%20Folder/img/background_image.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: cover;);
   }
 
   /*Heading Styling*/

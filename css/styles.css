@@ -29,7 +29,7 @@
   }
 
   body {
-    background-image: url(img/background_image.jpg);
+    background-image: url(file:///C:/Users/Tyler/Documents/Achievment%20One%20Folder/img/background_image.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -112,20 +112,8 @@
       text-align: center;
     }
 
-    .portrait_about {
-      float: left;
-      width: 250px;
-      height: auto;
-      border-radius: 50%;
-      margin: 25px;
-    }
-
     .about_profile_interests {
       list-style: none;
-      text-align: center;
-    }
-
-    .about_paragraph_header {
       text-align: center;
     }
 

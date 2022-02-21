@@ -40,7 +40,7 @@
     background-image: url(file:///C:/Users/Tyler/Documents/Achievment%20One%20Folder/img/background_image.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;);
+    background-size: cover;
   }
 
   /*Heading Styling*/
@@ -242,7 +242,7 @@
       -webkit-box-flex: 0;
           -ms-flex: 0 1 200px;
               flex: 0 1 200px;
-      width: 200;
+      width: 200px;
       height: 150px;
     }
     .page-header_item:last-child {
@@ -276,7 +276,10 @@
     .social-media {
       height: 30px;
       width: 30px;
-      enable-background: 0 0 48 48;
+    }
+
+    .social-media-tag {
+      font-size: 14px;
     }
 
     /* Section for Animation*/

@@ -278,6 +278,9 @@
       width: 30px;
     }
 
+    .social-media-tag {
+      font-size: 14px;
+    }
     /* Section for Animation*/
     .laptop-container {
       position: relative;

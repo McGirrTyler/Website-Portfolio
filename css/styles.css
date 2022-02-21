@@ -193,7 +193,7 @@
     }
     .page-header_item {
       flex: 0 1 200px;
-      width: 200;
+      width: 200px;
       height: 150px;
     }
     .page-header_item:last-child {
@@ -220,7 +220,6 @@
     .social-media {
       height: 30px;
       width: 30px;
-      enable-background: 0 0 48 48;
     }
 
     /* Section for Animation*/

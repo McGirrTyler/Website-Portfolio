@@ -201,8 +201,7 @@
     -ms-grid-column: 5;
     }
     .grid__item {
-      background-color: var(--secondary-color);
-      color: var(--link-color);
+      color: var(--text-color);
       border: 2px solid #f5f5f5;
     }
 

@@ -61,13 +61,10 @@
   a {
     color: var(--text-color);
   }
-  a:visited {
-    -webkit-text-decoration: var(--secondary-color);
-            text-decoration: var(--secondary-color);
-  }
+
   a:hover, a:focus {
     text-decoration: none;
-    color: var(--secondary-color);
+    color: var(--text-color);
   }
   a:active {
     text-decoration: none;
